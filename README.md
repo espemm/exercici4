@@ -3,6 +3,5 @@
 - [FranSG](files/imgF.jpg)
 
 Practica 2 fent fork
-# exercici4
-Practica 2 fent fork
+- [Iker Patiño](files/perromolon.jpg)
 - [DPD](files/dpd.md)
